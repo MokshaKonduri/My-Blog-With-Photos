@@ -1,0 +1,43 @@
+body {
+    
+    text-align: center;
+    
+    background-color: deeppink;
+    
+}
+
+div {
+    
+    margin-top: 15px;
+    
+}
+
+.image-section {
+    
+    display: flex;
+    
+    justify-content: center;
+    
+}
+
+.section-style {
+    
+    
+    
+}
+
+.Image {
+    
+    height: 500px;
+    width: 500px;
+    
+}
+
+p {
+    
+   margin: 10px;
+    font-style: italic;
+        color: #fce303;
+    font-size: 50px;
+    
+}
